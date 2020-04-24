@@ -1,4 +1,7 @@
 Goodbye
+I have
 Hello
+added these
 There
+three lines
 World
